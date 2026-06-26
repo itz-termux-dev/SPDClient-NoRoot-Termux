@@ -39,8 +39,8 @@ pkg update && pkg upgrade
 pkg install python python3 python-pip termux-api usbutills git curl
 ```
 ```bash
-git clone
-cd 
+git clone https://github.com/itz-termux-dev/SPDClient-NoRoot-Termux/tree/main
+cd SPDClient-NoRoot-Termux
 pip install colorama
 pip install .
 ```
