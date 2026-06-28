@@ -28,7 +28,13 @@ This tool achieves its completely **No-Root framework** by:
 
 # Installation Guid
 
+1. First download the tool from the setos below
 
+2. Then completely power off your target phone
+
+3. Then run type the command you want to run in the host phone which has the tool installed and press enter
+
+4. After the the text appers saying
 
 # Give Termux storage permission
 ```bash
