@@ -47,7 +47,7 @@ This tool achieves its completely **No-Root framework** by:
 
 10. If your timing is perfect, the flashing will begin, and it will go on for atlest 2 to 5 minutes
 
-11. After it finises, you can safly unplug the phone ane safly reboot
+11. After it finises, you can safly unplug the phone and safly reboot
 
 # Installation Guid
 
