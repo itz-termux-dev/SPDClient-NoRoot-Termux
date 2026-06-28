@@ -27,27 +27,26 @@ This tool achieves its completely **No-Root framework** by:
 * **Exploit Vector Routing:** Integrated with modular support to inject vulnerability structures (such as CVE-2022-38694) to bypass verification constraints directly within the BootROM environment.
 
 # How To Use
-1. First download the tool from the setos below
+
+1. First download the tool from the steps below
 
 2. Then completely power off your target phone
 
-3. Then run type the command you want to run in the host phone which has the tool installed and press enter
+3. Then type the command you want to run in inthe terminul while being in the tool's folder, and press enter
 
-4. After the the text appers saying "Scanning for Unisoc BootROM/Loader interface"
+4. After the the text appers saying "Scanning for Unisoc BootROM/Loader interface", hold booth volume buttons of the target phone, and while holding them, connect the cable to it
 
-5. Then hold booth volume buttons of the target phone, and while holding them, connect the cable to it
+5. If you are using a OTG adaptor, connect the OTG to the host phone and type c part of the usb cable to the target phone
 
-6. If you are using a OTG adaptor, connect the OTG to the host phone and type c part of the usb cable to the target phone
+6. If you are using a type c to type c cable, you can connect any sids to the phones
 
-7. If you are using a type c to type c cable, you can connect any sids to the phones
+7. After you connect booth phone, if the target phone gets detected by the scrip, you will see a Termux:api popup on the host phone asking to allow access to the connected usb device
 
-8. After you connect booth phone, if the phone gets detected, you will see a Termux:api popup on the host phone asking to allow access to the connected usb device
+8. Press "OK" on that popup as soon as it appers, as you will have only ~2 to ~3 befor your target phone times out and reboots
 
-9. Press "OK" on that popup as soon as it appers, as you will have only ~2 to ~3 befor your target phone times out and reboots
+9. If your timing is perfect, the flashing will begin, and it will go on for atlest 2 to 5 minutes
 
-10. If your timing is perfect, the flashing will begin, and it will go on for atlest 2 to 5 minutes
-
-11. After it finises, you can safly unplug the phone and safly reboot
+10. After it finises, you can safly unplug the phone and safly reboot
 
 # Installation Guid
 
