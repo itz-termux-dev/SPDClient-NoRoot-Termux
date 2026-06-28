@@ -50,6 +50,8 @@ This tool achieves its completely **No-Root framework** by:
 
 # Installation Guid
 
+First install [Termux](https://f-droid.org/repo/com.termux_1022.apk) and [Termux:api](https://f-droid.org/repo/com.termux.api_1002.apk) from Fdroid or GitHub, dont use termux from playstore, that is a outdated version and it doesn't have the nessary pakages for the tool to run
+
 # Give Termux storage permission
 ```bash
 termux-setup-storage
