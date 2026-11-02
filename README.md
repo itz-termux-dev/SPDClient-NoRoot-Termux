@@ -107,4 +107,4 @@ python3 spd.py read --partition boot stock_boot_backup.img
 python3 spd.py erase --partition metadata
 ```
 
-For any suggestions or bug report please contact on sameenataj427@gmail.com. thank you
+For any suggestions or bug report please contact on mubarakpa427@gmail.com. thank you
